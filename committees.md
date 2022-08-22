@@ -25,7 +25,7 @@ title: COINE
 - Christopher	Frantz (Norwegian University of Science and Technology, NO)
 - Wamberto Vasconcelos (University of Aberdeen, UK)
 - Harko Verhagen (Stockholm University, SE)
-- Jaime Simão Sichman (Universidade de São Paulo, BZ)
+- Jaime Simão Sichman (Universidade de São Paulo, BR)
 <!-- *Others to be confirmed* -->
 
 <!--
