@@ -25,11 +25,12 @@ title: COINE
 - Christopher	Frantz (Norwegian University of Science and Technology, NO)
 - Wamberto Vasconcelos (University of Aberdeen, UK)
 - Harko Verhagen (Stockholm University, SE)
+- Jaime Simão Sichman (Universidade de São Paulo, BZ)
 <!-- *Others to be confirmed* -->
 
 <!--
 - Mohsen Afsharchi (University of Zanjan, IR)
-- João Paulo Aires (PUCRS, BR)
+
 - Juan Antonio Rodriguez Aguilar (IIIA-CSIC, ES)
 - Estefania Argente (Universidad Politecnica de Valencia, ES)
 - Alexander Artikis (NCSR "Demokritos", GR)
